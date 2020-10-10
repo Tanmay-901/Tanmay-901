@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about technical queries, innovative ideas
 - 📫 How to reach me: tanmaykhandelwal2014@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: protagonist as well as procastinator at the same time  
+- ⚡ Fun fact: protagonist and procastinator at the same time  
   
   
 
