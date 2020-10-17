@@ -5,7 +5,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on improving my Coding profile
+- 🔭 I’m currently working on improving my Programming skills.
 - 🌱 I’m currently learning Linux, Bash
 - 👯 I’m looking to collaborate on Github
 - 🤔 I’m looking for help with Advanced DSA
