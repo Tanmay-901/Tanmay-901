@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on Test Case Generator tool.
-- 🌱 I’m currently learning React.js, Django.
+- 🌱 I’m currently learning Open-source contribution, React.js, Django.
 - 👯 I’m looking to collaborate on Linux package manager.
 - 🤔 I’m looking for help with making an online tool for test case generator.
 - 💬 Ask me about queries related to Arduino, Robotics, different OS, python, Competitive coding.
