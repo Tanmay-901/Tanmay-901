@@ -5,11 +5,11 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on improving my Programming skills (3 :star: on codechef).
-- 🌱 I’m currently learning Linux, Bash
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with Advanced DSA
-- 💬 Ask me about technical queries, innovative ideas
+- 🔭 I’m currently working on Test Case Generator tool.
+- 🌱 I’m currently learning React.js, Django.
+- 👯 I’m looking to collaborate on Linux package manager.
+- 🤔 I’m looking for help with making an online tool for test case generator.
+- 💬 Ask me about queries related to Arduino, Robotics, different OS, python, Competitive coding.
 - 📫 How to reach me: tanmaykhandelwal2014@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: protagonist and procastinator at the same time  
