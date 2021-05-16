@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Open-source contribution, React.js, Django.
 - 👯 I’m looking to collaborate on Linux package manager.
 - 🤔 I’m looking for help with making an online tool for test case generator.
-- 💬 Ask me about queries related to Arduino, Robotics, different OS, python, Competitive coding.
+- 💬 Ask me about queries related to Python, OOPs, Arduino, Robotics, different OSs, python, Competitive coding.
 - 📫 How to reach me: tanmaykhandelwal2014@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: protagonist and procastinator at the same time  
