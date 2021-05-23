@@ -5,7 +5,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on Traffic Police Handy device.
+- 🔭 I’m currently working on Traffic Police Handy device and Crypto Price Tracker Bot.
 - 🌱 I’m currently learning Open-source contribution, ML, CP.
 - 👯 I’m looking to collaborate on Linux package manager.
 - 🤔 I’m looking for help with getting a good job.
