@@ -5,10 +5,10 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on Traffic Police Handy device and Crypto Price Tracker Bot.
-- 🌱 I’m currently learning Open-source contribution, ML, CP.
-- 👯 I’m looking to collaborate on Linux package manager.
-- 🤔 I’m looking for help with getting a good job.
+- 🔭 I’m currently working on upskilling myself.
+- 🌱 I’m currently learning Machine Learning, CP.
+- 👯 I’m looking to collaborate on Robotics and python projects.
+- 🤔 I’m looking for help with getting a good career opportunity.
 - 💬 Ask me about queries related to Python, OOPs, Arduino, Robotics, different OSs, python, Competitive coding.
 - 📫 How to reach me: tanmaykhandelwal2014@gmail.com
 - 😄 Pronouns: He/His
