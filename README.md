@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: protagonist and procastinator at the same time.  
 - Connect with me:  
-    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanmay-khandelwal-901/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/d.u_d_e_9.0.1/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Tanmay901/) <a href="https://dev.to/dude901">
+    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanmay-khandelwal-901/)  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/d.u_d_e_9.0.1/)  <a href="https://dev.to/dude901">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tanmay Khandelwal's DEV Community Profile" height="30" width="30">
 </a>
 
