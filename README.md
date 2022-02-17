@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Test Case Generator](https://tanmay-901.github.io/test-case-generator/).
-- 🌱 I’m currently learning Machine Learning, CP.
+- 🌱 I’m currently learning Machine Learning, CP, Spring boot.
 - 👯 I’m looking to collaborate on Robotics and python projects.
-- 🤔 I’m looking for help with getting a good career opportunity.
+<!-- - 🤔 I’m looking for help with getting a good career opportunity.-->
 - 💬 Ask me about queries related to Python, OOPs, Arduino, Robotics, different OSs, python, Competitive coding.
 - 📫 How to reach me: tanmaykhandelwal2014@gmail.com
 - 😄 Pronouns: He/His
