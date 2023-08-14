@@ -6,13 +6,13 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Test Case Generator](https://tanmay-901.github.io/test-case-generator/).
-- 🌱 I’m currently learning Machine Learning, CP, Spring boot.
-- 👯 I’m looking to collaborate on Robotics and python projects.
+- 🌱 I’m currently studying Statistics, Data Analysis, and Machine Learning.
+- 👯 I’m up for collaborating on Innovative Robotics and Python projects.
 <!-- - 🤔 I’m looking for help with getting a good career opportunity.-->
-- 💬 Ask me about queries related to Python, OOPs, Arduino, Robotics, different OSs, python, Competitive coding.
+- 💬 Ask me about queries related to Python, OOPs, Arduino, Robotics, different OS, and Competitive coding.
 - 📫 How to reach me: tanmaykhandelwal2014@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: protagonist and procastinator at the same time.  
+- ⚡ Fun fact: protagonist and procrastinator at the same time.  
 - Connect with me:  
     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tanmay-khandelwal-901/)         [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/d.u_d_e_9.0.1/)  <a href="https://dev.to/dude901">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tanmay Khandelwal's DEV Community Profile" height="30" width="30">
