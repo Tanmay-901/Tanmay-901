@@ -5,7 +5,8 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on [Test Case Generator](https://tanmay-901.github.io/test-case-generator/).
+<!-- - 🔭 I’m currently working on [Test Case Generator](https://tanmay-901.github.io/test-case-generator/). -->
+- 🔭 I’m currently working on [Test Case Generator](https://github.com/Tanmay-901/test-case-generator).
 - 🌱 I’m currently studying Statistics, Data Analysis, and Machine Learning.
 - 👯 I’m up for collaborating on Innovative Robotics and Python projects.
 <!-- - 🤔 I’m looking for help with getting a good career opportunity.-->
