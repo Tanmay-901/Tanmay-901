@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Test Case Generator](https://github.com/Tanmay-901/test-case-generator).
 - 🌱 I’m currently studying Statistics, Data Analysis, and Machine Learning.
 - 👯 I’m up for collaborating on Innovative Robotics and Python projects.
-### 💘 Support my work  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dude901)  
-If you think my work has been helpful in anyway, you can consider supporting the work  
+<!-- ### 💘 Support my work  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dude901)  
+If you think my work has been helpful in anyway, you can consider supporting the work  -->
 <!-- - 🤔 I’m looking for help with getting a good career opportunity.-->
   
 - 💬 Ask me about queries related to Python, OOPs, Arduino, Robotics, different OS, and Competitive coding.
